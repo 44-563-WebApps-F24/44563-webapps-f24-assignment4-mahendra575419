@@ -55,3 +55,8 @@
 .ath {
     color: blueviolet;
 }
+
+.name:hover{
+    border: 2px;
+    box-shadow: 0 4px 15px black;
+}
