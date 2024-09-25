@@ -60,3 +60,29 @@
     border: 2px;
     box-shadow: 0 4px 15px black;
 }
+
+.navbar {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    background-color: blue;
+    border-top: 2px solid #ccc;
+    margin-top: 20px;
+}
+
+.navbar li {
+    margin: 0 15px;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: white;
+
+
+}
+
+.navbar a:hover {
+    background-color: #ddd;
+    color: #000;
+}
