@@ -23,3 +23,25 @@
 .ath {
     color: rgb(80, 67, 219);
 }
+.table {
+    
+    width: 100%;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: blue;
+    margin: 18px;
+    padding: 3px;
+}
+
+.thead {
+    
+    background-color: greenyellow;
+    color: white;
+    text-align: left;
+    border: 1px black;
+    
+}
+
+.tbody{
+    padding-left: 3px;
+    background-color: whitesmoke;
+}
